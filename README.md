@@ -15,3 +15,6 @@ washington.csv
 ### Credits
 I thank the Slack community that helped me during the project.
 I also used pandas and NumPy in this project.
+
+### For udacity 
+<3
